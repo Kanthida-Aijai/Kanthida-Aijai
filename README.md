@@ -13,9 +13,9 @@
 - **Databases:** MySQL, PostgreSQL
 
 ## 📌โปรเจกต์ที่โดดเด่น (Featured Projects)
--**[ออกแบบ UX/UI แอปพลิเคชั่น IFitUp สำหรับการลดน้ำหนักแบบ IF](https://github.com/Kanthida-Aijai/Portfolio):** ออกแบบในส่วนหน้า Login กับ Create Account และ เทคโนโลยีหลักที่ใช้ Figma
+- **[ออกแบบ UX/UI แอปพลิเคชั่น IFitUp สำหรับการลดน้ำหนักแบบ IF](https://github.com/Kanthida-Aijai/Portfolio):** ออกแบบในส่วนหน้า Login กับ Create Account และ เทคโนโลยีหลักที่ใช้ Figma
 
 ## 📬ช่องทางการติดต่อ (Contact Information)
--**Email:** [kanisom1410@gmail.com]
--**LinkedIn:** [linkedin.com/in/username](URL)
--**Portfolio Website:** [URL]
+- **Email:** [kanisom1410@gmail.com]
+- **LinkedIn:** [linkedin.com/in/username](URL)
+- **Portfolio Website:** [URL]
